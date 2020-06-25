@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+button {
+  width: 50px;
+  height: 50px;
+  font-size: 25px;
+  margin: 2px;
+}
+
+.Calculator {
+  width:220px;
+  margin: 0 auto;
+}
+
+
+.Result {
+  width: 100%;
+  margin-top: 20%;
+}
+
+.Result textarea, p {
+  width: 100%;
+  font-size: 22px;
+  text-align: right;
+}
